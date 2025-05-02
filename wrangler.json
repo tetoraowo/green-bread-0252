@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "green-bread-0252",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b3734ad7-28e9-4ff1-a685-a1e3080989d6",
+      "database_name": "yellow-math-11f9-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
